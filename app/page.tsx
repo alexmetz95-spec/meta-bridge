@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{fontFamily:"system-ui",maxWidth:760,margin:"60px auto",padding:20}}><h1>Meta Second Opinion Bridge</h1><p>MCP endpoint: <code>/api/mcp</code></p><p>Meta credentials are stored only as server-side environment variables.</p></main>}
